@@ -1,1 +1,1 @@
-# trybe-execicios
+# trybe-exercicios
